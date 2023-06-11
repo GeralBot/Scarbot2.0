@@ -113,7 +113,6 @@ global.yt = 'https://www.youtube.com/Alsf'
 global.ig = 'https://www.instagram.com/geral_ventas_18/'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989/'
-
 global.nna = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Actualización, información sobre el bot
 global.nn = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon' //Grupo 2
