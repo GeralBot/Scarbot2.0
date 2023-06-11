@@ -9,14 +9,14 @@ let info = `
 Grupos del amistades donde esta el bot
 
 *꧁⁣𓆩Aᴹᴵᴳᴼˢ Cᴴᴬᵀˢ Y Aᴾᴼᴿᵀᴱ*
-https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
+https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 Si quieres que tu grupo aparezca aca habla con mi creador
 `.trim() 
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', ' 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 ', 'status@broadcast')
 }
 handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|groupofc|gruposgb|grupogb|groupgb$/i
 

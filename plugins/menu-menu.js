@@ -80,15 +80,15 @@ let menu = `⌜ *${wm}* ⌟
 
 *Hola ${taguser}*
 
-□ *Creador: Aleizn*
-□ *Numero del creador: wa.me/51992621601*
-□ *Numero del bot ofc: wa.me/51992621601*
+□ *Creador: Geral*
+□ *Numero del creador: wa.me/51935763050*
+□ *Numero del bot ofc: wa.me/51935763050*
 □ *Tiempos activos :* *${uptime}*
 □ *Usuarios:* *${Object.keys(global.db.data.users).length}*
 □ *Registrado: ${rtotalreg} de ${totalreg}* ${(conn.user.jid == global.conn.user.jid ? '' : `\n□ *Soy un sub bot del:* wa.me/${global.conn.user.jid.split`@`[0]}`) || ''}
     
 □ *Desarrollador*
-wa.me/51992621601
+wa.me/51935763050
 
 ◉ _*INFO DEL USUARIO*_
 □ *🙌 Registrado:* ${user.registered === true ? '✅' : '❌ _#verificar_'}
